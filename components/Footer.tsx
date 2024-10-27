@@ -20,7 +20,7 @@ const Footer = () => {
               alt="logo"
               width={100}
               height={80}
-              className="transition-transform hover:scale-105 ml-[20px]"
+              className="transition-transform hover:scale-105 ml-[20px] border-2 border-white rounded-full"
             />
             
           </Link>

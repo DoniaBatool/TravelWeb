@@ -52,7 +52,8 @@ const Guide = () => {
           alt="guide image"
           width={1440}
           height={580}
-          className="w-full object-cover object-center rounded-lg lg:rounded-3xl"
+          className="w-full object-fill object-center rounded-lg lg:rounded-3xl
+               h-80 xs:h-80 sm:h-80 md:h-80 lg:h-[580px] lg:max-w-screen-4xl"
         />
         
         

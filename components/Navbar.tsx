@@ -15,7 +15,7 @@ const Navbar = () => {
   return (
     <nav className="fixed top-0 left-0 right-0 z-50 bg-green-950 h-[70px] flex items-center justify-between px-4">
       <Link href={"/"}>
-        <Image src="/logofinal.png" alt="logo" width={100} height={100} className="mt-2 ml-8"/>
+        <Image src="/logofinal.png" alt="logo" width={100} height={100} className="mt-2 "/>
       </Link>
 
       {/* Desktop Menu Links */}
